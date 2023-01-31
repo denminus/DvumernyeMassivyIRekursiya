@@ -1,0 +1,15 @@
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\bin\Debug\net6.0\Ex2.exe
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\bin\Debug\net6.0\Ex2.deps.json
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\bin\Debug\net6.0\Ex2.dll
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\bin\Debug\net6.0\Ex2.pdb
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.dll
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.pdb
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+E:\обучение Гигбраинс\Знакомство с языками программирования (лекции)\lesson5\Ex2\obj\Debug\net6.0\ref\Ex2.dll
